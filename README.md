@@ -76,3 +76,7 @@ El proceso de testing estuvo orientado principalmente a validar:
 **Permisos → Cámara → Detección → Gestos → Interacción → Animaciones → Física → UX/UI**
 
 De esta manera se buscó garantizar que la experiencia completa funcionara correctamente desde el acceso inicial a la cámara hasta la interacción del usuario con las partículas en tiempo real.
+
+https://maru2121.github.io/particulas/
+
+
